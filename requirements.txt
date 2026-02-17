@@ -5,3 +5,5 @@ opencv-python-headless
 python-multipart
 numpy
 Pillow
+mediapipe==0.10.11
+opencv-python
